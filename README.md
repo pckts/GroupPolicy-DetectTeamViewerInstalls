@@ -1,6 +1,6 @@
-#=============# Scenario  ONE #=============#
-# Devices are managed with Active Directory #
-#==============# ON-PREMISES #==============#
+#============# Scenario  ONE #============#
+#Devices are managed with Active Directory#
+#=============# ON-PREMISES #=============#
 
 1. Unzip TeamViewerDetectorAgentDeployment.zip
 NOTE: The "TeamViewerDetectorAgentDeployment" folder may become double nested during unzip operation
@@ -28,9 +28,9 @@ True  = TeamViewer detected
 NOTE: Procedure as defined in official Trusted Advisor notice from here on out
 
 
-#=============# Scenario  TWO #=============#
-# Devices are managed with Microsoft Intune #
-#=================# CLOUD #=================#
+#============# Scenario  TWO #============#
+#Devices are managed with Microsoft Intune#
+#================# CLOUD #================#
 
 1. Go to https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMonitorMenu/~/discoveredApps in Private/Incognito browser
 NOTE: Private/Incognito browser is optional but helps prevent conflicts when handling multiple tenants
