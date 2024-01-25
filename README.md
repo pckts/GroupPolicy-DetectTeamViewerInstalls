@@ -23,7 +23,9 @@ OPTIONAL: Verify a successful deployment by locating the "TeamViewerDetectorAgen
 
 6. Wait a few days and check the agentVerdicts.txt file located in C:\TeamViewerDetector\TMVVULAgentSource on the server
 NOTE: This file lists endpoints that have reported with their TeamViewer installation status
+
 False = No TeamViewer detected
+
 True  = TeamViewer detected
 
 #=========# Scenario  TWO #=========#
