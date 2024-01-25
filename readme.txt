@@ -26,10 +26,6 @@ NOTE: This file lists endpoints that have reported with their TeamViewer install
 False = No TeamViewer detected
 True  = TeamViewer detected
 
-7. Use this data to report back to the customer
-NOTE: Procedure as defined in official Trusted Advisor notice from here on out
-
-
 #=============# Scenario  TWO #=============#
 # Devices are managed with Microsoft Intune #
 #=================# CLOUD #=================#
@@ -45,6 +41,3 @@ NOTE: This is done in the "Search by application name" input field
 
 4. If results are found, click the discovered TeamViewer app to see list of devices
 NOTE: Multiple TeamViewer apps might appear as they are seperated by version
-
-5. Use this data to report back to the customer
-NOTE: Procedure as defined in official Trusted Advisor notice from here on out
